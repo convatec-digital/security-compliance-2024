@@ -23,7 +23,7 @@ For detailed instructions on setting up 2FA, please visit [GitHub's 2FA setup gu
 We are standardizing usernames across our GitHub instance to streamline user management and enhance security protocols.
 
 *Username Format Requirements:*
-- For company employees: FirstnameLastnameCompany
+- For Convatec employees: FirstnameLastnameCvT
 - For vendors/contractors: FirstnameLastnameVendorName
 
 *Examples:*
